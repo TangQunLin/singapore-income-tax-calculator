@@ -10,7 +10,7 @@ The tax computation structure for this project is based on IRAS's tax calculator
 ### Assumptions made:
 - User is a tax resident of Singapore (i.e. Eligible for personal reliefs)
 - No sharing of personal reliefs (i.e. No apportionment of tax reliefs with spouse/ex-spouse)
-- Computes minimum tax payable (i.e. maximum personal reliefs to be claimed)
+- Computes minimum tax payable (i.e. Maximum personal reliefs to be claimed)
 
 
 ## Requirements
