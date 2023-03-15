@@ -201,7 +201,7 @@ if net_tax_payable < 0:
 #rounding to 2dp
 net_tax_payable = round(net_tax_payable,2)
 
-#print full tax xomputation for user
+#print full tax computation for user
 print()
 print()
 print()
